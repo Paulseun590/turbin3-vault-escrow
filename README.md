@@ -85,5 +85,5 @@ This project helped me understand account management, PDA derivation, program-co
 
 ## Links
 
-- GitHub repository: To be added
+- GitHub repository: https://github.com/Paulseun590/turbin3-vault-escrow
 - Project explanation: https://x.com/Paulseun5/status/2120581861533794360

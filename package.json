@@ -1,7 +1,7 @@
 {
   "name": "turbin3-vault-escrow",
   "version": "1.0.0",
-  "description": "",
+  "description": "Solana Vault and SPL Token Escrow programs built with Rust and Anchor.",
   "main": "index.js",
   "scripts": {
     "test": "ts-mocha -p ./tsconfig.json -t 1000000 \"tests/**/*.ts\""
